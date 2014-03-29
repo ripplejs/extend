@@ -1,0 +1,17 @@
+{
+  "name": "extend",
+  "repo": "ripplejs/extend",
+  "description": "Easily extend the view prototype",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yields/merge": "*"
+  },
+  "development": {
+    "component/assert": "0.3.0"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
